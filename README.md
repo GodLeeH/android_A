@@ -15,3 +15,13 @@
 
  ## 기능
  * 클릭하면 다음 페이지로 
+
+2019-11-18
+
+![image](https://user-images.githubusercontent.com/50735594/69044945-32ce0e80-0a39-11ea-8e70-b5deeed91aaa.png)
+
+## Page Design
+* 전공별 페이지
+
+## 기능
+* 내용(제목과 설명) 추가 
