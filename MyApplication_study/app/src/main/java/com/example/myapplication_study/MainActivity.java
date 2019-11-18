@@ -1,11 +1,13 @@
 package com.example.myapplication_study;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -50,5 +52,8 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
+
+
+
     }
 }
